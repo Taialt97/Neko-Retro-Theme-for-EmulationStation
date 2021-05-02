@@ -1,10 +1,13 @@
-# Retropie-Bubble-Theme
-Retropie Pixel-art bubbly theme
+# Retropie-Neko-Theme
+
+
+![catto icon ](https://user-images.githubusercontent.com/45160819/116811577-d25e5e80-ab52-11eb-953a-5af1612002b6.png)
+
 
 Conterbuters:
-https://github.com/Taialt97
-https://github.com/Chippix
-https://github.com/kenshub
+https://github.com/Taialt97 <br>
+https://github.com/Chippix <br>
+https://github.com/kenshub <br>
 
 ![alt text](https://github.com/Taialt97/Retropie-Bubble-Theme/blob/main/all_cards_updates/all_cards_png.png)
 
