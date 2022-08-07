@@ -6,7 +6,7 @@
 
 neko-theme-es is a retro, pixel-art bubbly theme. It's designed for [EmulationStation](https://emulationstation.org) and was originally inspired by experiences with [Retropie](https://retropie.org.uk).
 
-This theme is not complete.
+This theme is not yet complete.
 
 ## Installation
 
