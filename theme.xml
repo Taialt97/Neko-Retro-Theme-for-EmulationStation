@@ -1,0 +1,117 @@
+<!--
+theme name:		neko-theme-es
+version:		0.2
+author:			loop
+license:		creative commons CC-BY-NC-SA
+based on:		art and design by tai
+-->
+
+<theme>
+
+	<formatVersion>3</formatVersion>
+	
+	<variables>
+		<gamelistFont>./fonts/nes_cyrillic_gamelist.ttf</gamelistFont>
+		<bodyFont>./fonts/</bodyFont>
+		<resolutionX>1920</resolutionX>
+		<resolutionY>1080</resolutionY>
+		<backgroundScheme>dark</backgroundScheme>
+		<colorScheme>default</colorScheme>
+	</variables>
+
+	<resolution>${resolutionX} ${resolutionY}</resolution>
+
+	<view name="system">
+		<image name="background" extra="true">
+			<path>./assets/ui_254/background/variants_1080p/1080p_DR.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+		</image>
+		<image name="systemsOverlay" extra="true">
+			<path>./assets/ui_1080/view_systems.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+		</image>
+		<text name="systemInfo" extra="true">
+			<fontPath>${gamelistFont}</fontPath>
+			<color>FF00FF</color>
+		</text>
+		<text name="logoText" extra="true">
+			<fontPath>${gamelistFont}</fontPath>
+			<color>00FF00</color>
+		</text>
+		<image name="logo">
+			<path>./assets/systems/${system.theme}.png</path>
+		</image>
+		<helpsystem name="help">
+			<pos>1 1</pos>
+		</helpsystem>
+		<text name="systemCardTop" extra="true">
+			<fontPath>${gamelistFont}</fontPath>
+			<color>FF0000</color>
+			<pos>0.45 0.7</pos>
+			<size>0 0 </size>
+			<text>${system.name}</text>
+			<zIndex>50</zIndex>
+		</text>
+		<!--<image name="systemTopBox" extra="true">
+			<path>./assets/ui_${resolutionY}/elements/header.png</path>
+			<origin>0 0</origin>
+			<pos>0.1 0</pos>
+			<size>0.8 0.15</size>
+		</image>-->
+	</view>
+
+	<view name="system">
+		<carousel name="systemcarousel">
+			<type>horizontal</type>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>1 0.6</size>
+			<color>00000057</color>
+			<logoSize>1 1</logoSize>
+			<logoScale>1</logoScale>
+			<maxLogoCount>3.33</maxLogoCount>
+		</carousel>
+	</view>
+
+	<view name="basic, detailed, video">
+		<image name="background" extra="true">
+			<path>./assets/ui_1080/background_${backgroundScheme}.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+		</image>
+		<image name="systemsOverlay" extra="true">
+			<path>./assets/ui_1080/view_gamelist.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+		</image>
+			<image name="titlesOverlay" extra="true">
+			<path>./assets/ui_1080/gamelist/title/${backgroundScheme}.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+		</image>
+		<textlist name="gamelist">
+			<fontPath>${gamelistFont}</fontPath>
+			<selectorImagePath>./assets/ui_254/gamelist/arrow.png</selectorImagePath>
+			<selectorImageTile>true</selectorImageTile>
+            <selectorColor>000000FF</selectorColor>
+            <selectedColor>F8F8F8</selectedColor>
+            <selectorHeight>0.05</selectorHeight>
+            <primaryColor>FF0000</primaryColor>
+            <secondaryColor>888888</secondaryColor>
+            <alignment>left</alignment>
+            <pos>0.11 0.22</pos>
+            <size>0.345 0.58</size>
+            <fontSize>0.07</fontSize>
+            <lineSpacing>1.7</lineSpacing>
+		</textlist>
+
+	</view>
+
+</theme>
