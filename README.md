@@ -17,16 +17,16 @@ This theme is not yet complete.
 
 ## Contributors/Contributions
 
-Art:
+Art: <br>
 https://github.com/Taialt97
 
-Code:
+Code: <br>
 https://github.com/yoon-loop
 
-Fonts:
-NES Cyrillic Fonts by xbost
-Tiny Unicode by DuffsDevice
-TODO: figure out if we can use joystix?
+Fonts: <br>
+NES Cyrillic Fonts by xbost <br>
+Tiny Unicode by DuffsDevice <br>
+TODO: figure out if we can use joystix? <br>
 
 ## Images
 
