@@ -41,7 +41,7 @@ BY  – Credit must be given to the creator <br>
 NC  – Only noncommercial uses of the work are permitted <br>
 SA  – Adaptations must be shared under the same terms <br>
 
-TO DO LIST 
+## TO DO LIST 
 - [ ] arcade.png
 - [ ] atarilynx.png
 - [ ] auto-allgames.png
