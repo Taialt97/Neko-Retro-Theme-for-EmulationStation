@@ -36,7 +36,10 @@ based on:		art and design by tai
 		</image>
 		<text name="systemInfo" extra="true">
 			<fontPath>${gamelistFont}</fontPath>
-			<color>FF00FF</color>
+			<origin>0.5 0.5</origin>
+			<pos>0.76 0.06</pos>
+            <fontSize>0.06</fontSize>
+			<color>000000</color>
 		</text>
 		<text name="logoText" extra="true">
 			<fontPath>${gamelistFont}</fontPath>
@@ -48,11 +51,17 @@ based on:		art and design by tai
 		<helpsystem name="help">
 			<pos>1 1</pos>
 		</helpsystem>
+		<image name="systemsLogoTopLeft" extra="true">
+			<path>./assets/logos/${system.theme}.png</path>
+			<origin>0.5 0.5</origin>
+			<pos>0.32 0.06</pos>
+			<size>0.3 0.1</size>
+		</image>
 		<text name="systemCardTop" extra="true">
 			<fontPath>${gamelistFont}</fontPath>
 			<color>FF0000</color>
 			<pos>0.45 0.7</pos>
-			<size>0 0 </size>
+			<size>0 0</size>
 			<text>${system.name}</text>
 			<zIndex>50</zIndex>
 		</text>
