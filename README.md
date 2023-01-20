@@ -2,6 +2,11 @@
 
 Neko Retro Theme (neko-theme-es) is a theme for EmulationStation with a retro pixel-art aesthetic. The theme is designed to give your gaming setup a nostalgic, bubbly feel that will transport you back to the days of classic gaming.
 
+![](https://github.com/Taialt97/Retropie-Neko-Theme/blob/main/images/01.png)
+![](https://github.com/Taialt97/Retropie-Neko-Theme/blob/main/images/02.png)
+![](https://github.com/Taialt97/Retropie-Neko-Theme/blob/main/images/03.png)
+![](https://github.com/Taialt97/Retropie-Neko-Theme/blob/main/images/04.png)
+
 ## About
 
 Neko Retro Theme was inspired by experiences with Retropie, and is a perfect fit for anyone who wants to give their gaming setup a retro touch. The theme features pixel-art graphics, retro-style fonts, and a color palette that evokes memories of classic gaming consoles.
