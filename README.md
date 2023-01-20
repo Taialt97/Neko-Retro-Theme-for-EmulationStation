@@ -1,11 +1,11 @@
 # Neko Retro Theme for EmulationStation
 
+![](https://github.com/Taialt97/Retropie-Neko-Theme/blob/main/images/01.png)
+
 Neko Retro Theme (neko-theme-es) is a theme for EmulationStation with a retro pixel-art aesthetic. The theme is designed to give your gaming setup a nostalgic, bubbly feel that will transport you back to the days of classic gaming.
 
-![](https://github.com/Taialt97/Retropie-Neko-Theme/blob/main/images/01.png)
 ![](https://github.com/Taialt97/Retropie-Neko-Theme/blob/main/images/02.png)
 ![](https://github.com/Taialt97/Retropie-Neko-Theme/blob/main/images/03.png)
-![](https://github.com/Taialt97/Retropie-Neko-Theme/blob/main/images/04.png)
 
 ## About
 
@@ -38,6 +38,8 @@ TODO: figure out if we can use joystix?
 Neko Retro Theme is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
 
 ## TO DO LIST 
+
+![](https://github.com/Taialt97/Retropie-Neko-Theme/blob/main/images/04.png)
 
 - [ ] arcade.png
 - [ ] atarilynx.png
