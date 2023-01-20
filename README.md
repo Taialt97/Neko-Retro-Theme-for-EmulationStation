@@ -1,14 +1,14 @@
-#Neko Retro Theme for EmulationStation
+# Neko Retro Theme for EmulationStation
 
 Neko Retro Theme (neko-theme-es) is a theme for EmulationStation with a retro pixel-art aesthetic. The theme is designed to give your gaming setup a nostalgic, bubbly feel that will transport you back to the days of classic gaming.
 
-##About
+## About
 
 Neko Retro Theme was inspired by experiences with Retropie, and is a perfect fit for anyone who wants to give their gaming setup a retro touch. The theme features pixel-art graphics, retro-style fonts, and a color palette that evokes memories of classic gaming consoles.
 
 Please note that this theme is a work in progress, and more features and improvements will be added in the future.
 
-##Installation
+## Installation
 
 Download the repository from GitHub.
 Create a new folder called 'Neko Retro Theme'
@@ -17,7 +17,7 @@ Find the themes folder for EmulationStation on your operating system. This is us
 Copy the 'Neko Retro Theme' folder into the themes folder
 Start EmulationStation and the theme should automatically show up in the theme selector.
 
-##Contributors/Contributions
+## Contributors/Contributions
 
 Art by Taialt97
 Code by yoon-loop
@@ -28,7 +28,7 @@ NES Cyrillic Fonts by xbost
 Tiny Unicode by DuffsDevice
 TODO: figure out if we can use joystix?
 
-##License
+## License
 
 Neko Retro Theme is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
 
