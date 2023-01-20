@@ -1,47 +1,39 @@
-# neko-theme-es
+#Neko Retro Theme for EmulationStation
 
-[neko-theme-es](https://github.com/Taialt97/Retropie-Neko-Theme) is a theme for EmulationStation with a retro pixel-art aesthetic.
+Neko Retro Theme (neko-theme-es) is a theme for EmulationStation with a retro pixel-art aesthetic. The theme is designed to give your gaming setup a nostalgic, bubbly feel that will transport you back to the days of classic gaming.
 
-## About
+##About
 
-neko-theme-es is a retro, pixel-art bubbly theme. It's designed for [EmulationStation](https://emulationstation.org) and was originally inspired by experiences with [Retropie](https://retropie.org.uk).
+Neko Retro Theme was inspired by experiences with Retropie, and is a perfect fit for anyone who wants to give their gaming setup a retro touch. The theme features pixel-art graphics, retro-style fonts, and a color palette that evokes memories of classic gaming consoles.
 
-This theme is not yet complete.
+Please note that this theme is a work in progress, and more features and improvements will be added in the future.
 
-## Installation
+##Installation
 
-1. Download the repository, and put everything into a folder called 'neko-theme-es'
-2. Per your operating system, find ~/.emulationstation/themes
-3. Copy the neko-theme-es folder there
-4. Boot EmulationStation, theme should automatically show up
+Download the repository from GitHub.
+Create a new folder called 'Neko Retro Theme'
+Copy the downloaded files into the new folder
+Find the themes folder for EmulationStation on your operating system. This is usually located at ~/.emulationstation/themes
+Copy the 'Neko Retro Theme' folder into the themes folder
+Start EmulationStation and the theme should automatically show up in the theme selector.
 
-## Contributors/Contributions
+##Contributors/Contributions
 
-Art: <br>
-https://github.com/Taialt97
+Art by Taialt97
+Code by yoon-loop
 
-Code: <br>
-https://github.com/yoon-loop
+Fonts:
 
-Fonts: <br>
-NES Cyrillic Fonts by xbost <br>
-Tiny Unicode by DuffsDevice <br>
-TODO: figure out if we can use joystix? <br>
+NES Cyrillic Fonts by xbost
+Tiny Unicode by DuffsDevice
+TODO: figure out if we can use joystix?
 
-## Images
+##License
 
-![catto icon ](https://user-images.githubusercontent.com/45160819/116811577-d25e5e80-ab52-11eb-953a-5af1612002b6.png)
-
-## License
-
-[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/): This [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
-
-CC BY-NC-SA includes the following elements: <br>
-BY  – Credit must be given to the creator <br>
-NC  – Only noncommercial uses of the work are permitted <br>
-SA  – Adaptations must be shared under the same terms <br>
+Neko Retro Theme is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
 
 ## TO DO LIST 
+
 - [ ] arcade.png
 - [ ] atarilynx.png
 - [ ] auto-allgames.png
